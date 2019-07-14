@@ -1,0 +1,2 @@
+# Clinic-CheckIn
+Queue analysis for the design of a healthcare clinic. This analysis observes if demand at the clinic supports the consolidation of check-in/reception areas for patients arriving for appointments at one of the 13 departments in the clinic. The request was to build a single, centralized check-in area on the first floor, rather than have each department staff their own check-in area.
